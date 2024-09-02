@@ -1,4 +1,5 @@
 # Maintainer: Thomas Rijpstra <thomas at fourlights dot nl>
+# Based on work by https://github.com/JamiKettunen, see https://github.com/mudkipme/awesome-minisforum-v3/issues/5
 pkgname=minisforum-v3-pcie-aspm-config
 pkgver=1.0.0
 pkgrel=1
